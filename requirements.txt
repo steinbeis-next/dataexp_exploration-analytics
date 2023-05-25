@@ -1,0 +1,5 @@
+ipython-sql
+PyMySQL
+SQLAlchemy
+scikit-learn
+torch
