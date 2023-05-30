@@ -3,3 +3,6 @@ PyMySQL
 SQLAlchemy
 scikit-learn
 torch
+pandas
+matplotlib
+seaborn
