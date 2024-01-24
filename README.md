@@ -13,6 +13,6 @@ Topics:
   * Introduction to Neural Networks
   * Reinforcement Learning
 
-Run it in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mesa-ai/snext-exploration-analytics/main)
+Run it in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/steinbeis-next/dataexp_exploration-analytics/main)
 
 Commercial use is not permitted without the explicit permission of the author.
