@@ -1,6 +1,4 @@
-ipython-sql
-PyMySQL
-SQLAlchemy
+jupysql
 scikit-learn
 pandas
 matplotlib
